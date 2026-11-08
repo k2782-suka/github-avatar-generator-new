@@ -1,3 +1,4 @@
+# github-avatar-generator-new
 Instructions for creating an avatar
 In the code, locate the following lines:
 generator.generate("Desired Name 1", "avatars/test1.png")
