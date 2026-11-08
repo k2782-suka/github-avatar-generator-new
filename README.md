@@ -1,3 +1,1 @@
-# github-avatar-generator-new
-Новая версия проекта [github avatar generator py](https://github.com/k2782-suka/github-avatar-generator-py-)
-Инструкция как сделать аватар В коде найдите строчки generator.generate("Имя которое хотите1", "avatars/test1.png") generator.generate("2", "avatars/test2.png") generator.generate("3", "avatars/test3.png") Здесь замените "Имя которое хотите1, test1, 2, test2, 3, test3." на то что хотите Не забудьте извлечь файл в любую папку на рабочем столе!!! И установите Pillow (pip install Pillow) Потом запускайте код и после того как в терминале будет написано что все прошло успешно. зайдите в папку с файлом. Там будет новая папка avatars. там и находятся ваши аватары Приятного использования
+
