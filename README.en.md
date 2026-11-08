@@ -68,3 +68,4 @@ All parameters can be found at the beginning of the `github_avatar.py` file:
 3. The first three bytes of the hash are used to determine the color in the HSL color model. 4. The following bytes determine which cells in the left half of the grid are filled.
 5. The right half is a mirror image of the left, so the pattern is symmetrical.
 6. The grid is rendered into pixels, which are then packed into a PNG file using `zlib`. An SVG is also created from the same data.
+The project was written using Claude.
