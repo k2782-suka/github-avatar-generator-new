@@ -2,3 +2,4 @@ README.md        export-ignore
 README.en.md     export-ignore
 LICENSE          export-ignore
 .gitattributes   export-ignore
+ignore.txt       export-ignore
